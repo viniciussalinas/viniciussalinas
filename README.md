@@ -10,18 +10,6 @@ I from Brazil and hold a Bachelor's degree in Computer Science from the Federal 
 - Expertise in Salesforce reports and dashboards, with a focus on CRM.
 - Trained and experienced in Lean Six Sigma, Design Thinking, SCRUM, and Kanban.
 
-## 🏆 Achievements & Honors
-Successfully participated in hackathons and programming marathons focused on innovative problem-solving and product development strategies.
-- 1st Place - Digital Ecoar Marathon (May 2020)
-- 3rd Place - Hackathon do Bem (May 2020)
-- Mini-Company Highlights 2014 (Product Director, Dec 2014)
-
-## 🌐 Languages
-
-- English: Advanced Professional Competency
-- Portuguese: Native proficiency
-- Spanish: Advanced Professional Competency
-
 
 📫 vinicius_salis@hotmail.com
 
